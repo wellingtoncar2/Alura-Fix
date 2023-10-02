@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "../../../01-React"
+        },
+        {
+            "path": "../.."
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Alura-Fix"
+    }
+}
