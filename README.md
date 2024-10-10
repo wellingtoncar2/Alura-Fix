@@ -1,8 +1,12 @@
-# React + Vite
+# AluraFlix
+Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um catálogo de vídeos com HTML e CSS" da Alura Start.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias utilizadas
+- HTML
+- CSS
 
-Currently, two official plugins are available:
+## Acessando o código
+Para acessar o código referente às aulas, clique no seletor `main` do repositório e selecione a aula desejada.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Notas e créditos
+Feito por Wellington Andrade , instrutor e fundador da Alura.
